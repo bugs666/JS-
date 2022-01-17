@@ -37,3 +37,4 @@
    document.head.appendChild(script);
    ```
 
+**可以通过noscript标签来指定浏览器不支持js时的展示内容**
